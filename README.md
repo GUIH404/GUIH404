@@ -17,7 +17,7 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub (GUIH404)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUIH404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -31,5 +31,3 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-azevedo-da-silva-102519399/)
 
 ---
-
-*“A segurança é um processo, não um produto.”*
