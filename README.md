@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Estudante de Engenharia de Software | Aspirante a DevOps & Segurança da Informação
 
-Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláveis. Atualmente, dedico meus estudos ao ecossistema de desenvolvimento backend e infraestrutura.
+Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláveis. Atualmente, dedico meus estudos ao desenvolvimento backend, automação de infraestrutura e práticas de segurança.
 
 ---
 
@@ -17,11 +17,15 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 
 ---
 
-### 📊 Estatísticas do GitHub (GUIH404)
+### 📊 Estatísticas de Contribuição
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUIH404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUIH404&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de GUIH404" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GUIH404&theme=radical" alt="Sequência de commits" />
 </p>
 
 ---
