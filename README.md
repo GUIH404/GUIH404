@@ -29,10 +29,6 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 ### 📊 Estatísticas de Atividade
 
 <p align="left">
-  <img width="480" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GUIH404&show_icons=true&theme=radical" alt="Estatísticas de Guilherme" />
-</p>
-
-<p align="left">
   <img width="480" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GUIH404&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
