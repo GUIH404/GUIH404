@@ -17,16 +17,20 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 
 ---
 
-### 📊 Estatísticas de Contribuição
+### 📊 Minha Stack em Gráfico
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUIH404&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de GUIH404" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&layout=pie&theme=radical&hide_border=true" alt="Gráfico de Linguagens" />
 </p>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GUIH404&theme=radical" alt="Sequência de commits" />
-</p>
+---
+
+### 🚀 Projetos Relevantes
+
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project Name** | Breve descrição do que o sistema faz e qual problema resolve. | Node/MySQL | [Repositório](https://github.com/GUIH404) |
+| **Security Lab** | Estudos sobre vulnerabilidades e segurança em APIs. | Java/Auth | [Repositório](https://github.com/GUIH404) |
 
 ---
 
