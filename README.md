@@ -17,24 +17,24 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 
 ---
 
-### 📊 Estatísticas e Atividade
-
-<p align="left">
-  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-</p>
-
-<p align="left">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=GUIH404&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
----
-
 ### 🚀 Projetos Relevantes
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Project Name** | Breve descrição do que o sistema faz e qual problema resolve. | Node/MySQL | [Repositório](https://github.com/GUIH404) |
 | **Security Lab** | Estudos sobre vulnerabilidades e segurança em APIs. | Java/Auth | [Repositório](https://github.com/GUIH404) |
+
+---
+
+### 📊 Estatísticas de Atividade
+
+<p align="left">
+  <img width="480" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GUIH404&show_icons=true&theme=radical" alt="Estatísticas de Guilherme" />
+</p>
+
+<p align="left">
+  <img width="480" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GUIH404&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
