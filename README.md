@@ -21,8 +21,7 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project Name** | Breve descrição do que o sistema faz e qual problema resolve. | Node/MySQL | [Repositório](https://github.com/GUIH404) |
-| **Security Lab** | Estudos sobre vulnerabilidades e segurança em APIs. | Java/Auth | [Repositório](https://github.com/GUIH404) |
+| **API Rest** | Estudos sobre construção de APIs. | JavaScript/Auth | [Repositório](https://github.com/GUIH404/API) |
 
 ---
 
