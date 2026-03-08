@@ -38,5 +38,3 @@ Sou um desenvolvedor em formação apaixonado por resolver problemas complexos a
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-azevedo-da-silva-102519399/)
 
 ---
-
-> "Código limpo sempre parece que foi escrito por alguém que se importa." — Robert C. Martin
