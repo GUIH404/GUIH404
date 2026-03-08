@@ -17,10 +17,14 @@ Sou um entusiasta de tecnologia focado em construir sistemas seguros e escaláve
 
 ---
 
-### 📊 Minha Stack em Gráfico
+### 📊 Estatísticas e Atividade
 
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&layout=pie&theme=radical&hide_border=true" alt="Gráfico de Linguagens" />
+<p align="left">
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIH404&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
+<p align="left">
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=GUIH404&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 ---
