@@ -22,6 +22,7 @@ Sou um desenvolvedor em formação apaixonado por resolver problemas complexos a
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
 | **E-commerce API** | Desenvolvimento de uma API completa para gerenciamento de vendas e estoque. | Node.js / MySQL | [Ver Projeto](https://github.com/GUIH404/API) |
+| **Burger Blast** | Desenvolvimento de um site comercial de venda de Hamburguers. | HTML / CSS / JavaScript / Express.JS / ORM / Node.js / MySQL | [Ver Projeto](https://github.com/GUIH404/burger-blast) |
 
 ---
 
